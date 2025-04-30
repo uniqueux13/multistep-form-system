@@ -1,0 +1,17 @@
+# Python Virtual Environment
+backend/venv/
+
+# Python cache files
+backend/__pycache__/
+*.pyc
+
+# Data submissions folder (contains generated data, not code)
+backend/submissions/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files (add more for your editor if needed)
+.idea/
+.vscode/

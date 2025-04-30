@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+/* Hide all steps by default */
+.form-step {
+    display: none;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 15px;
+}
+
+/* Show the 'active' step */
+.form-step.active {
+    display: block;
+}
+
+#response-message {
+    margin-top: 20px;
+    font-weight: bold;
+}
