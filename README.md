@@ -9,6 +9,7 @@ This repository contains a simple Flask backend API and example frontends for a 
 
 ## Project Structure
 
+```text
 This project uses a monorepo structure:
 multistep-form-system/
 ├── backend/            # Contains the Flask backend application
@@ -27,7 +28,7 @@ multistep-form-system/
 │
 ├── .gitignore          # Specifies intentionally untracked files for Git
 └── README.md           # This documentation file
-
+```
 
 ## Technology Stack
 
